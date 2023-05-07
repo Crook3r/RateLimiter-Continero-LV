@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Custom (For Visual studio)
+.vs
+bin/
+debug/
+obj/
+*.user
